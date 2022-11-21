@@ -1,0 +1,12 @@
+﻿  Source.c
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(65,16): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(78,39): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(124,42): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(174,12): warning C4098: 'printallStudent': 'void' function returning a value
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(182,12): warning C4098: 'printallStudent': 'void' function returning a value
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(209,12): warning C4098: 'printallClass': 'void' function returning a value
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(213,39): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(218,12): warning C4098: 'printallClass': 'void' function returning a value
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(278,39): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\ebraheem\source\repos\שאלה2\שאלה2\Source.c(351,7): warning C4101: 'buff': unreferenced local variable
+  שאלה2.vcxproj -> C:\Users\ebraheem\source\repos\שאלה2\Debug\שאלה2.exe
